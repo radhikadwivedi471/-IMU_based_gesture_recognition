@@ -1,4 +1,6 @@
 #  IMU-Based Gesture Recognition for Gaming Control
+demo
+[watch video here](https://www.linkedin.com/posts/radhika-dwivedi-06424a319_iitd-machinelearning-humancomputerinteraction-activity-7417532022471983104-quKq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCo78wBWhdnbog_ffgnVgmi4uaW2xeGOCA)
 
 ---
 
